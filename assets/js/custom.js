@@ -1,6 +1,6 @@
 var userAgent = navigator.userAgent;
-var API_BASE_URL = 'lecdapi.yaofan.site';
-var App_Key = '7iudhWquXYN0uToAuxseBFJe'
+var API_BASE_URL = 'api.heroh.top';
+var App_Key = 'w6TGfYIL28w4mwfgDm816vSy'
 
 // 判断是否在微信内
 if (userAgent.indexOf("MicroMessenger") !== -1) {
